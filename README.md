@@ -1,6 +1,11 @@
 # Smart-Door-Window-Management
 An IoT project for interaction with doors/windows via NodeMCU ESP8266 using Firebase Real-Time Database
 
+Difficulty : Beginner
+
+Prerequisites :
+- Basic knowledge of Programming and Algorithm
+
 What Hardwares I've used are shown below :
 - NodeMCU ESP8266 V3 
 - HC SR04 Ultrasonic Distance Sensor
